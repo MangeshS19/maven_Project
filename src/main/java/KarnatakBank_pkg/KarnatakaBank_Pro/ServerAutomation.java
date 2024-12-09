@@ -44,7 +44,7 @@ public class ServerAutomation {
 
     public void verifyExcelFile(String folderPath, String filePattern) throws JSchException, IOException {
         // Find the file dynamically
-    	filePattern ="KBankChatHistory_20241202_to_20241208";
+    	filePattern ="KBankChatHistory_20241209_to_20241215";
         String command = "ls -ltr " + folderPath + " | grep '" + filePattern + "' | tail -n 1 | awk '{print $NF}'";
         String dynamicFileName = executeCommand(command);
 
