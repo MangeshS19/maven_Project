@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-06T13:06:20 IST" name="Default suite" finished-at="2024-12-06T13:06:25 IST" duration-ms="4520">
+    <groups>
+    </groups>
+    <test started-at="2024-12-06T13:06:20 IST" name="Default test" finished-at="2024-12-06T13:06:25 IST" duration-ms="4520">
+      <class name="KarnatakBank_pkg.KarnatakaBank_Pro.ServerAutomationTest">
+        <test-method signature="testShellScriptExecution()[pri:0, instance:KarnatakBank_pkg.KarnatakaBank_Pro.ServerAutomationTest@48aca48b]" started-at="2024-12-06T13:06:21 IST" name="testShellScriptExecution" finished-at="2024-12-06T13:06:25 IST" duration-ms="4484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShellScriptExecution -->
+      </class> <!-- KarnatakBank_pkg.KarnatakaBank_Pro.ServerAutomationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
